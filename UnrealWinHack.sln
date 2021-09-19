@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnrealWinHack", "UnrealWinHack\UnrealWinHack.csproj", "{AFA02436-1D9A-4B78-8D8E-196B3567F0EF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnrealDotaWinHack", "UnrealDotaWinHack\UnrealDotaWinHack.vcxproj", "{9044E4B8-70BE-42D6-8FBF-D14C3787F85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHWIDforWINHACK", "GetHWIDforWINHACK\GetHWIDforWINHACK.csproj", "{C4ACD008-7227-4DEF-905C-0958A0C8F1B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertHWIDtoTEXT", "ConvertHWIDtoTEXT\ConvertHWIDtoTEXT.csproj", "{8F64EBE3-5C2B-4942-9F6F-B9C3779065B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "iCCupFreeDropHack", "iCCupFreeDropHack\iCCupFreeDropHack.vcxproj", "{92C65E78-6235-4E57-8ED6-0462BAC55F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA02436-1D9A-4B78-8D8E-196B3567F0EF}.Release|x86.ActiveCfg = Release|x86
+		{AFA02436-1D9A-4B78-8D8E-196B3567F0EF}.Release|x86.Build.0 = Release|x86
+		{9044E4B8-70BE-42D6-8FBF-D14C3787F85A}.Release|x86.ActiveCfg = Release|Win32
+		{9044E4B8-70BE-42D6-8FBF-D14C3787F85A}.Release|x86.Build.0 = Release|Win32
+		{C4ACD008-7227-4DEF-905C-0958A0C8F1B1}.Release|x86.ActiveCfg = Release|x86
+		{C4ACD008-7227-4DEF-905C-0958A0C8F1B1}.Release|x86.Build.0 = Release|x86
+		{8F64EBE3-5C2B-4942-9F6F-B9C3779065B3}.Release|x86.ActiveCfg = Release|x86
+		{8F64EBE3-5C2B-4942-9F6F-B9C3779065B3}.Release|x86.Build.0 = Release|x86
+		{92C65E78-6235-4E57-8ED6-0462BAC55F54}.Release|x86.ActiveCfg = Release|Win32
+		{92C65E78-6235-4E57-8ED6-0462BAC55F54}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
